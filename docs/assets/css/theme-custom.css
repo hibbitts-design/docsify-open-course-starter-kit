@@ -1,0 +1,58 @@
+:root {
+    --base-font-size                        : 16px;
+    --link-color                            : #0B87DA;
+    --navbar-root-color                     : #0B87DA;
+    --navbar-root-color--active             : #0B87DA;
+    --navbar-root-color--hover              : #0B87DA;
+    --sidebar-nav-link-color--active        : #4D4D4D;
+    --sidebar-nav-link-font-weight--active  : bold;
+    --pagination-title-color                : #0B87DA;
+}
+
+.markdown-section .button {
+  cursor: pointer;
+  color: white;
+  height: 38px;
+  padding: 8px;
+  background-color: var(--theme-color);
+  text-decoration: none;
+  border-radius: .25rem;
+}
+
+.markdown-section a.button {
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+}
+
+.markdown-section .banner-image {
+  width: 100%; /* width of container */
+  height: 200px; /* height of container */
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.pagination-item, .pagination-item-title {
+    opacity: .9!important;
+}
+
+.pagination-item:not(:last-child) a .pagination-item-label, .pagination-item:not(:last-child) a .pagination-item-subtitle, .pagination-item:not(:last-child) a .pagination-item-title {
+    opacity: .9!important;
+    transition: all .2s;
+}
+
+blockquote ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+blockquote ul li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+blockquote ul li:before {
+  content: '\2713';
+  padding-right: 5px;
+}
