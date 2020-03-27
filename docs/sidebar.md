@@ -8,3 +8,5 @@
 - [![Quizzes](https://icongram.jgog.in/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://sso.canvaslms.com/courses/1924881/quizzes ':target=_blank')
 - [![Class Discussions](https://icongram.jgog.in/fontawesome/comments-o.svg?size=16&color=808080)Class Discussions](https://sso.canvaslms.com/courses/1924881/discussion_topics ':target=_blank')
 - [![Syllabus](https://icongram.jgog.in/fontawesome/list.svg?size=16&color=808080)Syllabus](https://sso.canvaslms.com/courses/1924881/assignments/syllabus ':target=_blank')
+- **Project Documentation**
+  - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md ':target=_blank')
