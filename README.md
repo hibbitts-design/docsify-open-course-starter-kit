@@ -4,8 +4,8 @@
 
 📸 Docsify Open Course Starter Kit Screenshot
 ---
-![ Docsify Open Course Kit Skeleton](screenshot.jpg)
-_Figure 1. Docsify Open Course Kit Skeleton_
+![ Docsify Open Course Starter Kit](screenshot.jpg)
+_Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/docsify-open-course-starter-kit/](https://hibbitts-design.github.io/docsify-open-course-starter-kit/)_
 
 🚀 Quick GitHub Pages Install Instructions
 ---
