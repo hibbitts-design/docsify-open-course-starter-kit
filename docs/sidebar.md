@@ -1,3 +1,4 @@
+- [Schedule](schedule)
 - [Week 1 (May 9 - 15)](module-1)
 - [Week 2 (May 16 - 22)](module-2)
 - [Week 3 (May 23 - 29)](module-3)
