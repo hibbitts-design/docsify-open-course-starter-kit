@@ -9,6 +9,10 @@
     --pagination-title-color                : #0B87DA;
 }
 
+.responsive-wrap iframe{
+  max-width: 100%;
+}
+
 .markdown-section .button {
   cursor: pointer;
   color: white;

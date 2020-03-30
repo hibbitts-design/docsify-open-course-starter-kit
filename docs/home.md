@@ -1,4 +1,4 @@
-# CMPT363 User Interface Design
+# CPT363 User Interface Design
 
 > **Important Reminders**
 > * [Journey Map](#) assignment due Jun 12th
