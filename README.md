@@ -1,4 +1,4 @@
-# Open Course Starter Kit
+# Docsify Open Course Starter Kit
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/LICENSE)
@@ -6,7 +6,7 @@
 
 > This is a starter kit to create an open [Docsify](https://docsify.js.org) course site.
 
-📸 Screenshot
+📸 Docsify Open Course Screenshot
 ---
 ![ Docsify Open Course Starter Kit](screenshot.jpg)
 _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/docsify-open-course-starter-kit/](https://hibbitts-design.github.io/docsify-open-course-starter-kit/)_
