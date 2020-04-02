@@ -1,9 +1,9 @@
 :root {
     --base-font-size                        : 16px;
-    --link-color                            : #0B87DA;
-    --navbar-root-color                     : #0B87DA;
-    --navbar-root-color--active             : #0B87DA;
-    --navbar-root-color--hover              : #0B87DA;
+    --link-color                            : #0A75BD;
+    --navbar-root-color                     : #0A75BD;
+    --navbar-root-color--active             : #0A75BD;
+    --navbar-root-color--hover              : #0A75BD;
     --sidebar-nav-link-color--active        : #4D4D4D;
     --sidebar-nav-link-font-weight--active  : bold;
     --pagination-title-color                : #0B87DA;
