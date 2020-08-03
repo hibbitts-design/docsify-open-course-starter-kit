@@ -12,4 +12,8 @@
 
 [Required Reading Quiz](https://sso.canvaslms.com/courses/1924881/quizzes/4876153 ':class=button')
 
+### Slides to be Discussed
+
+[Usability Testing](https://www.google.ca/slides/about/)
+
 Did you attend this class? [Share your one-minute summary](#) before midnight, the day of class.
