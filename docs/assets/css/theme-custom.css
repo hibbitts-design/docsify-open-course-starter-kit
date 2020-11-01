@@ -64,23 +64,31 @@
   transition: all .2s;
 }
 
-blockquote h2 {
-  padding-bottom: 4em;
-   !important;
+.markdown-section blockquote h2 {
+  border-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-blockquote ul {
+.markdown-section blockquote h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-section blockquote ul {
   list-style: none;
-  margin-left: 0;
-  padding-left: 0;
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: .5em;
+  padding-bottom: 0;
 }
 
-blockquote ul li {
-  padding-left: 1em;
+.markdown-section blockquote ul li {
+  padding-left: 0em;
   text-indent: -1em;
 }
 
-blockquote ul li:before {
+.markdown-section blockquote ul li:before {
   content: '\2713';
   padding-right: 5px;
 }

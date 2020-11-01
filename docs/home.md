@@ -1,12 +1,8 @@
 # CPT363 User Interface Design
 
-<div class="reminders">
-
-### Important Reminders
-* [Journey Map](#) assignment due Jun 12th
-* [Course Reflection Log](#) assignment due Aug 3rd
-
-</div>
+> ### Important Reminders
+> * [Journey Map](#) assignment due Jun 12th
+> * [Course Reflection Log](#) assignment due Aug 3rd
 
 ## Jun 6th Class Preparations
 
