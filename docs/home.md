@@ -1,9 +1,8 @@
 # CPT363 User Interface Design
 
 > ### Important Reminders
-> * [Journey Map](#) assignment due Jun 12th
-> * [Course Reflection Log](#) assignment due Aug 3rd
-
+> * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
+> * [Course Reflection Log](#) assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>
 ## Jun 6th Class Preparations
 
 ### Required Reading

@@ -46,6 +46,28 @@
   text-decoration: none;
 }
 
+.markdown-section .badge {
+    color: #fff;
+    background-color: #6c757d;
+    display: inline-block;
+    padding: .25em .4em .25em 1.6em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    text-decoration: none;
+}
+
+.markdown-section a.badge {
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+}
+
 .markdown-section .banner-image {
   width: 100%;
   /* width of container */
