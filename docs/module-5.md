@@ -1,6 +1,6 @@
 # Week 5 (Jun 6 - 13)
 
-![Wireframe](assets/images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
+![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
 ## Summaries and Questions  
 [Jun 6th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377746)

@@ -11,8 +11,8 @@
 ## CPT-363 UX Design Process/Toolkit
 ![UX Design Process/Toolkit](assets/images/ux-toolkit-8-no-numbers.png)
 
-## Handouts
-[Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Handouts/Product%20Reaction%20Cards)  
+## Downloads
+[Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  
 
 ## Assignments
 [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  

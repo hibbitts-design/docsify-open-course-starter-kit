@@ -1,7 +1,18 @@
 :root {
   --base-font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
-  --base-font-size: 18px;
-  --heading-h3-font-weight: 600;
+  --base-font-size: 1.1rem;
+  --heading-h1-font-size: 1.85rem;
+  --heading-h2-font-size: 1.6rem;
+  --heading-h3-font-size: 1.4rem;
+  --heading-h4-font-size: 1.3rem;
+  --heading-h5-font-size: 1.2rem;
+  --heading-h6-font-size: 1.1rem;
+  --heading-h1-font-weight: 400;
+  --heading-h2-font-weight: 400;
+  --heading-h3-font-weight: 400;
+  --heading-h4-font-weight: 400;
+  --heading-h5-font-weight: 400;
+  --heading-h6-font-weight: 400;
   --link-color: #0A75BD;
   --navbar-root-color: #0A75BD;
   --navbar-root-color--active: #0A75BD;
@@ -52,7 +63,7 @@
     color: #fff;
     background-color: #6c757d;
     display: inline-block;
-    padding: .25em .4em .25em 1.6em;
+    padding: .25em .4em .25em .4em;
     font-size: 75%;
     font-weight: 700;
     line-height: 1;
@@ -109,12 +120,22 @@
 
 .markdown-section blockquote ul li {
   padding-left: 0em;
-  text-indent: -1em;
 }
 
 .markdown-section blockquote ul li:before {
   content: '\2713';
   padding-right: 5px;
+}
+
+.markdown-section h2 {
+  border-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-section h3 {
+  margin: 0;
+  padding: 0;
 }
 
 .reminders {
@@ -155,7 +176,6 @@
 
 .reminders ul li {
   padding-left: 0em;
-  text-indent: -1em;
 }
 
 .reminders ul li:before {
