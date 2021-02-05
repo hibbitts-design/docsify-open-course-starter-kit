@@ -1,6 +1,6 @@
 # CPT-363 User Interface Design
 
-> ## What's Happening This Week
+> ## What’s Happening This Week
 > ### Important Reminders
 > * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
 > * [Course Reflection Log](#) assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>
