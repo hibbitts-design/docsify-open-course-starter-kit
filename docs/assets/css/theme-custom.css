@@ -1,28 +1,3 @@
-:root {
-  --base-font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
-  --base-font-size: 1.1rem;
-  --heading-h1-font-size: 1.85rem;
-  --heading-h2-font-size: 1.6rem;
-  --heading-h3-font-size: 1.4rem;
-  --heading-h4-font-size: 1.3rem;
-  --heading-h5-font-size: 1.2rem;
-  --heading-h6-font-size: 1.1rem;
-  --heading-h1-font-weight: 400;
-  --heading-h2-font-weight: 400;
-  --heading-h3-font-weight: 400;
-  --heading-h4-font-weight: 400;
-  --heading-h5-font-weight: 400;
-  --heading-h6-font-weight: 400;
-  --link-color: #0A75BD;
-  --navbar-root-color: #0A75BD;
-  --navbar-root-color--active: #0A75BD;
-  --navbar-root-color--hover: #0A75BD;
-  --sidebar-name-color: #0A75BD;
-  --sidebar-nav-link-color--active: #4D4D4D;
-  --sidebar-nav-link-font-weight--active: bold;
-  --pagination-title-color: #0B87DA;
-}
-
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -99,17 +74,6 @@
   transition: all .2s;
 }
 
-.markdown-section blockquote h2 {
-  border-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.markdown-section blockquote h3 {
-  margin: 0;
-  padding: 0;
-}
-
 .markdown-section blockquote ul {
   list-style: none;
   margin-top: 0;
@@ -127,17 +91,6 @@
   padding-right: 5px;
 }
 
-.markdown-section h2 {
-  border-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.markdown-section h3 {
-  margin: 0;
-  padding: 0;
-}
-
 .reminders {
   overflow: visible;
   margin: 2em 0;
@@ -153,17 +106,6 @@
   font-style: var(--blockquote-font-style);
   font-weight: var(--blockquote-font-weight);
   quotes: "“""”""‘""’";
-}
-
-.reminders h2 {
-  border-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.reminders h3 {
-  margin: 0;
-  padding: 0;
 }
 
 .reminders ul {
