@@ -124,3 +124,7 @@
   content: '\2713';
   padding-right: 5px;
 }
+
+.markdown-section {
+    padding: 1rem 15px;
+}
