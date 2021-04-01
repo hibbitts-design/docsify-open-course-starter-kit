@@ -65,6 +65,14 @@
 <body>
     <div id="app"></div>
     <script>
+      function getParameterByName(name, url = window.location.href) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
         // Docsify
         window.$docsify = {
             // GENERAL SETTINGS
@@ -81,6 +89,7 @@
             auto2top   : true,
             maxLevel   : 3,
             subMaxLevel: 3,
+            hideSidebar: getParameterByName('hidesidebar') === 'true',
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
@@ -114,7 +123,7 @@
 
     <!-- Edit on GitHub Plugin -->
     <script src="https://unpkg.com/docsify-edit-on-github/index.js"></script>
-    
+
     <!-- Pagination Plugin -->
     <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
