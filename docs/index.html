@@ -81,7 +81,7 @@
             repo       : 'https://github.com/hibbitts-design/docsify-open-course-starter-kit',
             homepage   : 'home.md',
             loadSidebar: 'sidebar.md',
-            loadNavbar: true,
+            loadNavbar : !(getParameterByName('embedded') === 'true'),
             externalLinkTarget: '_blank',
 
             // SIDEBAR NAVIGATION
@@ -89,7 +89,7 @@
             auto2top   : true,
             maxLevel   : 3,
             subMaxLevel: 3,
-            hideSidebar: getParameterByName('hidesidebar') === 'true',
+            hideSidebar: getParameterByName('embedded') === 'true',
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
