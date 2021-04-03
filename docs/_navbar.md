@@ -1,2 +1,4 @@
 * [Schedule](schedule.md)
-* [Contact Instructor](contact-instructor.md)
+* [Topics](topics.md)
+* [Resources](resources.md)
+* [Contact](contact.md)
