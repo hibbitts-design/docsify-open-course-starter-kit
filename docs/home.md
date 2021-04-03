@@ -1,3 +1,5 @@
+## CPT-363 User Interface Design
+
 > ## What’s Happening This Week
 > ### How to make more strategic design decisions?
 > #### Important Reminders
