@@ -74,9 +74,13 @@
   transition: all .2s;
 }
 
+.markdown-section blockquote {
+    margin: 1em 0;
+}
+
 .markdown-section blockquote ul {
   list-style: none;
-  margin-top: 0;
+  margin-top: .5em;
   padding-top: 0;
   margin-bottom: .5em;
   padding-bottom: 0;
@@ -110,7 +114,7 @@
 
 .reminders ul {
   list-style: none;
-  margin-top: 0;
+  margin-top: .5em;
   padding-top: 0;
   margin-bottom: .5em;
   padding-bottom: 0;
@@ -123,6 +127,10 @@
 .reminders ul li:before {
   content: '\2713';
   padding-right: 5px;
+}
+
+.markdown-section {
+    padding: 1rem 15px;
 }
 
 .markdown-section #a, .markdown-section #b, .markdown-section #c, .markdown-section #d, .markdown-section #e, .markdown-section #f, .markdown-section #g, .markdown-section #h, .markdown-section #i, .markdown-section #j, .markdown-section #k, .markdown-section #l, .markdown-section #m, .markdown-section #n, .markdown-section #o, .markdown-section #p, .markdown-section #q, .markdown-section #r, .markdown-section #s, .markdown-section #t, .markdown-section #u, .markdown-section #v, .markdown-section #w, .markdown-section #x, .markdown-section #y, .markdown-section #z {
