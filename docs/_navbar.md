@@ -1,4 +1,5 @@
 * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [Resources](resources.md)
+* [UX Techniques Guide](accordion.md)
 * [Contact](contact.md)
