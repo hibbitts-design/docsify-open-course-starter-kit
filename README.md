@@ -57,6 +57,8 @@ For example, https://hibbitts-design.github.io/docsify-open-course-starter-kit/#
 
 To optionally hide the 'Edit this Page on GitHub' link, use the following:
 
+`?embedded=true&hidegithublink=true`
+
 For example, https://hibbitts-design.github.io/docsify-open-course-starter-kit/#/ would display a standard Docsify page while https://hibbitts-design.github.io/docsify-open-course-starter-kit/#/?embedded=true&hidegithublink=true would only display page content (i.e. no sidebar or optional navbar is shown) and also hide the 'Edit this Page on GitHub' link.
 
 📼 Video Walkthrough of Local Docsify Install/Config
