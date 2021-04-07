@@ -1,6 +1,6 @@
-## What does a holistic user experience design process look like?
-
 ![Flowchart](assets/images/4853380320_492f9dce63_b.jpg ':class=banner-image')
+
+## What does a holistic user experience design process look like?
 
 ### Summaries and Questions  
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)

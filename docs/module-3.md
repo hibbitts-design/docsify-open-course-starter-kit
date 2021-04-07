@@ -1,6 +1,6 @@
-## How to make more strategic design decisions?
-
 ![Bullseye](assets/images/6384294717_5047a35d48_b.jpg ':class=banner-image')
+
+## How to make more strategic design decisions?
 
 ### Summaries and Questions  
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)

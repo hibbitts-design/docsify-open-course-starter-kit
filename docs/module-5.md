@@ -1,6 +1,6 @@
-## How to plan, conduct, and summarize usability tests?
-
 ![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+
+## How to plan, conduct, and summarize usability tests?
 
 ### Summaries and Questions  
 [Jun 6th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377746)

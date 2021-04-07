@@ -1,6 +1,6 @@
-## How to explore and communicate possible design solutions?
-
 ![Wireframe](assets/images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
+
+## How to explore and communicate possible design solutions?
 
 ### Summaries and Questions  
 [May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377745)
