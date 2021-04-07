@@ -1,4 +1,4 @@
-## Week 5 (Jun 6 - 13)
+## How to plan, conduct, and summarize usability tests?
 
 ![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 

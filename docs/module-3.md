@@ -1,4 +1,4 @@
-## Week 3 (May 23 - 29)
+## How to make more strategic design decisions?
 
 ![Bullseye](assets/images/6384294717_5047a35d48_b.jpg ':class=banner-image')
 

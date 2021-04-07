@@ -1,4 +1,4 @@
-## Week 1 (May 9 - 15)
+## What is usability and user experience design?
 
 ![SFU Burnaby](assets/images/10610701655_c57e2dc536_o.jpg ':class=banner-image')
 
