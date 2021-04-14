@@ -6,10 +6,10 @@
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
 
 ### Presented Slides  
-<div class="video-container"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container video-container-4by3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ### Supplemental Materials  
-<div class="video-container"><iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Assignments
 [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
