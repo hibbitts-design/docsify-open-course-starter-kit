@@ -19,23 +19,20 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 
 1. GitHub account
 
-**Installation Steps**  
+**Installation and Deployment**  
 
 1. Tap **Use this template** on the source repository (upper-right green button)
 2. Choose the name for your new repository to contain the copied site files and then tap **Create repository from template**
 3. Go to **Settings** of your newly created repository, tap the **Pages** tab (on the left-hand side), choose **main branch/docs folder** and finally tap the **Save** button (see more details in the [Docsify documentation](https://docsify.js.org/#/deploy?id=github-pages))
 4. Now your pages are published (view your new site using the provided URL on the **Pages** tab - it can take up to 20 minutes for your site to be initially available)
 
-**Editing Your Docsify Site Pages on GitHub**
-1. Go to the GitHub Docsify site page (in the `docs` folder) you want to edit
-2. Tap the **Pencil Icon** (top left-hand toolbar area) and then make the edits you want
-3. Scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
+**Configure the "Edit this Page on GitHub" Link**
 
-**Configure Linked GitHub Repository**
+1. Go to the file index.html in the `docs` folder of your repository
+2. Tap the **Pencil Icon** (top left-hand toolbar area) to start the editor
+3. Find the original GitHub repository URL `https://github.com/hibbitts-design/docsify-open-course-starter-kit` and replace it with your own repository URL, for example `https://github.com/your-github-username/your-repository-name`
+4. Scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
 
-1. Edit the file index.html in the 'docs' folder of repository
-2. Find the current GitHub repository URL `https://github.com/hibbitts-design/docsify-open-course-starter-kit/tree/main/docs` and replace it with your own repository URL, for example `https://github.com/YourGitHubUsername/YourRepositoryName/tree/main/docs`
-3. Commit your changes
 
 💻 Locally Editing your Docsify Site Pages
 ---  
