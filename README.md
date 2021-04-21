@@ -51,7 +51,7 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 ---  
 
 ![ Docsify Open Course Page Embedded into the Canvas LMS](screenshot-2.jpg)
-_Figure 2. Docsify Open Course Page Emedded into the Canvas LMS. Explore an example Canvas LMS course using Docsify Open Course pages for content at [https://canvas.sfu.ca/courses/44038/](https://canvas.sfu.ca/courses/44038)_
+_Figure 2. Docsify Open Course Page Embedded into the Canvas LMS. Explore an example Canvas LMS course using Docsify Open Course pages for content at [https://canvas.sfu.ca/courses/44038/](https://canvas.sfu.ca/courses/44038)_
 
 The optional ‘embedded’ (all lowercase) URL parameter hides a site’s sidebar and optional navbar for seamlessly embedding Docsify page content within another platform such as Canvas LMS, Moodle, Microsoft Teams etc.
 
