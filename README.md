@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-> This is a starter kit to create an open [Docsify](https://docsify.js.org) course site. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes a pre-configured "Edit this Page on GitHub" link.
+> This is a starter kit to create a [Docsify](https://docsify.js.org) open course site. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes a pre-configured "Edit this Page on GitHub" link.
 
 📸 Docsify Open Course Screenshot
 ---
