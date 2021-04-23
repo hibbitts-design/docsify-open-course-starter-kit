@@ -155,7 +155,7 @@
     text-align: left;
 }
 
-.markdown-section .video-container {
+.markdown-section .video-container-4by3 {
   position: relative;
   padding-bottom: 75%;
   height: 0;
@@ -163,15 +163,15 @@
   max-width: 100%;
 }
 
-.markdown-section .video-container-4by3 {
-  padding-bottom: 75%;
-}
-
 .markdown-section .video-container-16by9 {
+  position: relative;
   padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
 }
 
-.markdown-section .video-container iframe, .embed-container object, .embed-container embed {
+.video-container-16by9 iframe, .video-container-4by3 iframe, .embed-container object, .embed-container embed {
   position: absolute;
   top: 0;
   left: 0;
