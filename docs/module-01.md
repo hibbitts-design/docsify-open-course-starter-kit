@@ -1,4 +1,4 @@
-![SFU Burnaby](assets/images/10610701655_c57e2dc536_o.jpg ':class=banner-image')
+![UX - User Experience](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 ## What is usability and user experience design?
 
