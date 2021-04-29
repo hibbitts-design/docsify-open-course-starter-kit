@@ -3,55 +3,55 @@
 #### [A](#a) | B | C | [D](#d) | E | [F](#f) | G | [H](#h) | I | [J](#j) | [K](#k) | [L](#l) | [M](#m) | N | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
-[Agile UX](module-2)
+[Agile UX](module-02)
 
 ### D
-[Design Ethics](module-2)  
-[Design Thinking](module-1)  
+[Design Ethics](module-02)  
+[Design Thinking](module-01)  
 
 ### F
-[5-Second Test](module-4)   
-[Five Whys](module-1)  
+[5-Second Test](module-04)   
+[Five Whys](module-01)  
 
 ### H
-[Hypothesis](module-2)  
+[Hypothesis](module-02)  
 
 ### J
-[Journey Maps](module-3)  
+[Journey Maps](module-03)  
 
 ### K
-[Kano Model](module-3)  
+[Kano Model](module-03)  
 
 ### L
-[Lean UX](module-2)  
+[Lean UX](module-02)  
 
 ### M
-[Microsoft Product Reaction Cards](module-2)  
+[Microsoft Product Reaction Cards](module-02)  
 
 ### P
-[Problem Statement](module-3)  
-[Product Design Principles](module-3)  
-[Prototyping](module-4)   
+[Problem Statement](module-03)  
+[Product Design Principles](module-03)  
+[Prototyping](module-04)   
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](module-4)  
-[Scenarios (and Design Scenarios)](module-4)  
-[Sketching](module-4)
-[Social Design](module-1)  
-[Software Design Processes](module-2)  
-[Storyboards](module-4)  
+[Scenario-based Design (and Task-Centered Design)](module-04)  
+[Scenarios (and Design Scenarios)](module-04)  
+[Sketching](module-04)
+[Social Design](module-01)  
+[Software Design Processes](module-02)  
+[Storyboards](module-04)  
 
 ### T
-[Task Analysis](module-2)  
+[Task Analysis](module-02)  
 
 ### U
-[Usability](module-1)  
-[Usability Goals](module-2)  
+[Usability](module-01)  
+[Usability Goals](module-02)  
 [Usability Testing](module-05)   
-[User-centered Design (UCD)](module-1)  
-[User Experience Design](module-2)   
-[UX Goals](module-2)  
-[UX Strategy](module-3)  
+[User-centered Design (UCD)](module-01)  
+[User Experience Design](module-02)   
+[UX Goals](module-02)  
+[UX Strategy](module-03)  
 
 ### V
-[Value Proposition](module-3)  
+[Value Proposition](module-03)  
