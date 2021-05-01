@@ -1,4 +1,4 @@
-## UX Techniques Guide
+# UX Techniques Guide
 
 <div class="accordion">
 

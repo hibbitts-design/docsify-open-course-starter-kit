@@ -1,6 +1,6 @@
-## Contact
+# Contact
 
-**Course Instructor**  
+## Course Instructor  
 Some Name  
 somename@somewhere.edu  
 

@@ -1,11 +1,11 @@
-## Schedule
+# Schedule
 
-### :fas fa-calendar fa-fw: [Week 1](module-01)
+## :fas fa-calendar fa-fw: [Week 1](module-01)
 **What is usability and user experience design?**  
 :fas fa-desktop fa-fw: [Introduction to UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 :fas fa-book fa-fw: [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
-### :fas fa-calendar fa-fw: [Week 2](module-02)
+## :fas fa-calendar fa-fw: [Week 2](module-02)
 **What does a holistic user experience design process look like?**  
 :fas fa-keyboard fa-fw: [Course Reflection Log](https://sso.canvaslms.com/courses/1924881/assignments/14377752) <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>  
 :fas fa-desktop fa-fw: [The Process of UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
