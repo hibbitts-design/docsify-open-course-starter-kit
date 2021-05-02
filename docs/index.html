@@ -127,7 +127,7 @@
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
                 if (!(getParameterByName('hidegitlink') === 'true')) {
-                  return html + '\n\n----\n\n' + editHtml
+                  return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
                 }
