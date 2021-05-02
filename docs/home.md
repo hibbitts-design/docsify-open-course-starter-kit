@@ -17,7 +17,3 @@
 
 ### Week 5 Slides to be Discussed
 [Usability Testing](https://www.google.ca/slides/about/)
-
----
-
-<a class="weatherwidget-io" href="https://forecast7.com/en/49d25n122d98/burnaby/" data-label_1="Burnaby, BC" data-label_2="Current Weather" data-font="Open Sans" data-icons="Climacons" data-mode="Current" data-days="3" data-theme="weather_one" >Burnaby, BC Current Weather</a>
