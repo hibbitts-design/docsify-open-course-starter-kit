@@ -19,7 +19,7 @@
 :fas fa-book fa-fw: [What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)  
 
 ### :fas fa-calendar fa-fw: [Week 4](module-04)
-**How to explore and communicate possible design solutions?**  
+**How to explore the problem space?**  
 :fas fa-desktop fa-fw: [Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 :fas fa-book fa-fw: [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
 :fas fa-users fa-fw: In-class office hours (tentative)  
