@@ -11,7 +11,7 @@ Put your custom CSS in this file.
 body .markdown-section {
     font-family: "Lato","Helvetica Neue",Arial,sans-serif;
     line-height: 1.4;
-    font-size:1.0rem;
+    font-size: 16px;
 }
 
 .markdown-section a:link:not(:button), .markdown-section a:visited, .markdown-section a:hover, .markdown-section a:active {
