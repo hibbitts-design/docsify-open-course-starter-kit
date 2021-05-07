@@ -75,8 +75,8 @@
 <body>
     <div id="app"></div>
     <script>
-      // Replace the below URL with your own GitHub Repository URL
-      var yourRepo = 'https://github.com/hibbitts-design/docsify-open-course-starter-kit';
+      // Enter the URL of your own GitHub Repository in between the two quotes below
+      var yourRepoURL = '';
 
       function getParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
@@ -130,7 +130,7 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if (!(getParameterByName('hidegitlink') === 'true')) {
+                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
