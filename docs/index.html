@@ -29,6 +29,7 @@
 
     <style>
       :root {
+
         --base-font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
 
         --base-line-height: 1.4;
@@ -123,7 +124,7 @@
                     .replace('raw.githubusercontent.com', 'github.com')
                     .replace(/\/master/, '/blob/master')
                 } else {
-                  url = yourRepo +'/blob/main/docs/' + vm.route.file
+                  url = yourRepoURL +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
 
