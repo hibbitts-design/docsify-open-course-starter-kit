@@ -19,7 +19,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 
 1. GitHub account
 
-**Installation and Deployment** 
+**Installation and Deployment**
 
 1. Tap **Use this template** on the source repository (upper-right green button)
 2. Choose the name for your new repository to contain the copied site files and then tap **Create repository from template**
