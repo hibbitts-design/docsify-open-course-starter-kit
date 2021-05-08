@@ -26,7 +26,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 3. Go to **Settings** of your newly created repository, tap the **Pages** tab (on the left-hand side), choose **main branch/docs folder** and finally tap the **Save** button (see more details in the [Docsify documentation](https://docsify.js.org/#/deploy?id=github-pages))
 4. And you're done! (view your new site using the provided URL on the **Pages** tab - it can take up to 20 minutes for your site to be initially available)
 
-<a href="https://github.com/hibbitts-design/docsify-open-course-starter-kit/wiki/Visual-Installation-and-Deployment-Guide" target="_blank">View these instructions with accompanying screenshots.</a>
+[View these instructions with accompanying screenshots.](https://github.com/hibbitts-design/docsify-open-course-starter-kit/wiki/Visual-Installation-and-Deployment-Guide)
 
 **Editing Your Docsify Site Pages on GitHub**
 
