@@ -22,4 +22,3 @@
 
 ## Recommended Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
