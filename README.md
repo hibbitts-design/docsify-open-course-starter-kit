@@ -11,7 +11,7 @@
 📸 Docsify Open Course Screenshot
 ---
 ![ Docsify Open Course Starter Kit](screenshot.jpg)
-_Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/docsify-open-course-starter-kit/](https://hibbitts-design.github.io/docsify-open-course-starter-kit/)_
+_Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/docsify-open-course-starter-kit/](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/)_
 
 🚀 GitHub Pages Quickstart
 ---
