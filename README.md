@@ -8,7 +8,7 @@
 
 > This is a starter kit to create a [Docsify](https://docsify.js.org) Markdown-based open course site. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link.
 
-📸 Docsify Open Course Screenshot
+📸 Docsify Open Course Screenshots
 ---
 ![ Docsify Open Course Starter Kit](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/smartmockups_kokhsfk1.png)
 _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/demo-docsify-open-course-starter-kit/](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/)_
