@@ -79,7 +79,7 @@
     <div id="app"></div>
     <script>
       // Enter the URL of your own GitHub Repository in between the two quotes below
-      var yourRepoURL = '';
+      var gitLinkRepoURL = '';
 
       function getParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
@@ -126,14 +126,14 @@
                     .replace('raw.githubusercontent.com', 'github.com')
                     .replace(/\/master/, '/blob/master')
                 } else {
-                  url = yourRepoURL +'/blob/main/docs/' + vm.route.file
+                  url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: Edit this Page](' + url + ')\n'
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
+                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
