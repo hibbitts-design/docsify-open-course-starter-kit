@@ -84,7 +84,7 @@
       // Customize the text for your Edit this Page on GitHub link between the two quotes below
       var editThisPageLinkText = 'Propose Changes to this Page';
 
-      function getParameterByName(name, url = window.location.href) {
+      function getURLParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
             results = regex.exec(url);
@@ -100,7 +100,7 @@
             name              : 'Docsify Open Course Starter Kit',
             homepage          : 'home.md',
             loadSidebar       : 'sidebar.md',
-            loadNavbar        : !(getParameterByName('embedded') === 'true'),
+            loadNavbar        : !(getURLParameterByName('embedded') === 'true'),
             externalLinkTarget: '_top',
 
             // SIDEBAR NAVIGATION
@@ -108,7 +108,7 @@
             auto2top   : true,
             maxLevel   : 3,
             subMaxLevel: 3,
-            hideSidebar: getParameterByName('embedded') === 'true',
+            hideSidebar: getURLParameterByName('embedded') === 'true',
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
@@ -136,7 +136,7 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
@@ -167,7 +167,7 @@
 
     <!-- Pagination Plugin -->
     <script>
-      if (!(getParameterByName('embedded') === 'true')) {
+      if (!(getURLParameterByName('embedded') === 'true')) {
         // Load pagination script asynchronously
         var sNew = document.createElement("script");
         sNew.async = true;
