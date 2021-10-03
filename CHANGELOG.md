@@ -4,6 +4,7 @@
 ### 10/04/2021
 
 **Improved:**
+* Updated example image descriptions
 * Adjusted tall banner images for use in multi-course setups
 
 ## [v1.0.3](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.0.3)
