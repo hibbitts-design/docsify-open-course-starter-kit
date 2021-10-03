@@ -4,6 +4,8 @@
 ### 10/04/2021
 
 **Improved:**
+* Changed name of Sidebar page
+* Revised Sidebar project links
 * Updated example image descriptions
 * Adjusted tall banner images for use in multi-course setups
 
