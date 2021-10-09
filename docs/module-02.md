@@ -1,4 +1,4 @@
-![Flowchart](assets/images/4853380320_492f9dce63_b.jpg ':class=banner-image')
+![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
 # What does a holistic user experience design process look like?
 
@@ -9,7 +9,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## CPT-363 UX Design Process/Toolkit
-![UX Design Process/Toolkit](assets/images/ux-toolkit-8-no-numbers.png)
+![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
 
 ## Downloads
 [Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  

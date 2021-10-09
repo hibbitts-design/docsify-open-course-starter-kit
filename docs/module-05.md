@@ -1,4 +1,4 @@
-![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![Usability Test](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
 # How to plan, conduct, and summarize usability tests?
 

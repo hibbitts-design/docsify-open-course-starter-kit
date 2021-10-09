@@ -1,4 +1,4 @@
-![Bullseye](assets/images/6384294717_5047a35d48_b.jpg ':class=banner-image')
+![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
 
 # How to make more strategic design decisions?
 

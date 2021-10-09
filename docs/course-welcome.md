@@ -1,4 +1,4 @@
-![Welcome sign](assets/images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
+![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
 
 # Welcome to CPT-363 User Interface Design 👋🏼  
 
