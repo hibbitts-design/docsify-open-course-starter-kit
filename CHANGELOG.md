@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.7](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.0.7)
+### XX/XX/2022
+
+**Improved:**  
+* Restored user zoom ability for improved accessibility
+* Revised alt image text for improved accessibility
+
 ## [v1.0.6](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.0.6)
 ### 11/15/2021
 
