@@ -30,23 +30,23 @@
 *   [Usability checklist (Userium)](https://userium.com/)
 *   [UX Project Checklist](http://uxchecklist.github.io/)
 
-### UX Technique Collections  
+## UX Technique Collections  
 *   [Methods | Usability.gov](http://www.usability.gov/how-to-and-tools/methods/)
 *   [Methods | Usability Body of Knowledge](http://www.usabilitybok.org/methods)
 *   [Usability Planner](http://usabilityplanner.org/#home)
 *   [UX Techniques (by UX Mastery)](http://uxmastery.com/resources/techniques)
 
-### UX Article Collections  
+## UX Article Collections  
 *   [The UX Bookmark](http://www.theuxbookmark.com/)
 *   [User Experience Magazine (UXPA)](http://uxpamagazine.org/)
 *   [UI/UX Articles (Medium)](https://medium.com/ui-ux-articles)
 
-### UX eBooks  
+## UX eBooks  
 *   [50 UX Best Practices by Above the Fold (email address required)](http://www.userexperiencedesigns.com/)
 *   [Bright Ideas for User Experience Designers](http://www.userfocus.co.uk/ebooks/uxdesign.html)
 *   [The Fable of the User-Centered Designer](http://www.userfocus.co.uk/fable/)
 
-### UX Design MOOCs & Courses
+## UX Design MOOCs & Courses
 *   [Human-Computer Interaction | Coursera](https://www.coursera.org/course/hciucsd)
 *   [The Design of Everyday Things | Udacity](https://www.udacity.com/course/design101)
 *   [Rapid Wireframing: Finding the Right Product Design](https://www.skillshare.com/classes/design/Rapid-Wireframing-Finding-the-Right-Product-Design/1947996659)
