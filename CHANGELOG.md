@@ -3,6 +3,9 @@
 ## [v1.0.7](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.0.7)
 ### XX/XX/2022
 
+**New:**  
+* Added conditional display of page table of contents (`?toc=true`)
+
 **Improved:**  
 * Restored user zoom ability for improved accessibility
 * Revised alt image text for improved accessibility
@@ -87,6 +90,7 @@
 * List and button style updates
 * Updated GitHub repo URL config and documentation
 * Relocated embedly script to index.html file
+
 **Bugfix:**  
 * Fixed label colour for linked badges
 * Consistent hover behaviour for linked badges and buttons
