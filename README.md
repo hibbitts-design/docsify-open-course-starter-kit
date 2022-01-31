@@ -94,6 +94,12 @@ To only display Docsify page content, add the following to a Docsify page URL:
 
 For example, https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources would display a standard Docsify page while https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true would only display page content (i.e., no sidebar or optional navbar is shown).
 
+To optionally show a page Table of Contents (based on included Headers), use the following:
+
+`?embedded=true&toc=true`
+
+For example, https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true  would only display page content while https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true &toc=true would display a page Table of Contents on the right side of the page.
+
 To optionally hide the 'Edit this Page' link, use the following:
 
 `?embedded=true&hidegitlink=true`
