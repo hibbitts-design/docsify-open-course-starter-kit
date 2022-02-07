@@ -27,9 +27,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
 
-    <!-- ToC Plugin Stylesheet -->
-    <link rel="stylesheet" href="assets/css/toc.css">
-
     <style>
       :root {
 
@@ -89,28 +86,40 @@
 
       // Get value from GET-parameter in URL
       // @param {string} name Parameter-name
-      // @returns {string|null} Parameter-value
-      function getURLParameterByName(name, url = window.location.href) {
-        name = name.replace(/[\[\]]/g, '\\$&');
-        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-            results = regex.exec(url);
-        if (!results) return null;
-        if (!results[2]) return '';
-        return decodeURIComponent(results[2].replace(/\+/g, ' '));
-        }
-
-      // Return given parameter if given key in URL
-      // @param {string} name Parameter-name
       // @param {*} isTrue Return if found
       // @param {*} isFalse Return if not found
-      // @returns {*} Given parameter
-      function returnByURLParameterByName(name, isTrue, isFalse, url = window.location.href) {
-        name = name.replace(/[\[\]]/g, '\\$&');
-        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-            results = regex.exec(url);
-        if (!results) return isFalse;
-        if (!results[2]) return isFalse;
-        return isTrue;
+      // @returns {string|null} Parameter-value
+      function getURLParameterByName(name, isTrue = null, isFalse = null, url = window.location.href) {
+
+        let exists = false;
+
+          if (Array.isArray(name)) {
+
+            name.forEach(element => {
+              if (getURLParameterByName(element)) {
+                exists = true;
+              }
+            });
+
+          } else {
+
+            name = name.toLowerCase().replace(/[\[\]]/g, '\\$&');
+
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+            var results = regex.exec(url.toLowerCase());
+
+            exists = (results && results[2]) ? true : false;
+          }
+
+          if (exists && isTrue) {
+            return isTrue;
+          }
+
+          if (!exists && isFalse) {
+            return isFalse;
+          }
+
+          return exists;
         }
 
         // Docsify
@@ -120,15 +129,15 @@
             name              : 'Docsify Open Course Starter Kit',
             homepage          : 'home.md',
             loadSidebar       : true,
-            loadNavbar        : !(getURLParameterByName('embedded') === 'true'),
-            externalLinkTarget: (returnByURLParameterByName('embedded','_top','_blank')),
+            loadNavbar        : !(getURLParameterByName(['standalone','embedded'])),
+            externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 
             // SIDEBAR NAVIGATION
             // -----------------------------------------------------------------
             auto2top   : true,
             maxLevel   : 3,
             subMaxLevel: 3,
-            hideSidebar: getURLParameterByName('embedded') === 'true',
+            hideSidebar: getURLParameterByName(['standalone','embedded']),
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
@@ -141,10 +150,10 @@
 
             toc: {
               scope: '.markdown-section',
-              headings: 'h2, h3, h4, h5, h6',
+              headings: 'h2, h3',
               title: 'Table of Contents',
             },
-            
+
           // CUSTOM PLUGINS
           // -----------------------------------------------------------------
           plugins: [
@@ -196,8 +205,9 @@
 
     <!-- Table of Contents Plugin -->
     <script>
-      if (getURLParameterByName('toc') === 'true' || getURLParameterByName('ToC') === 'true') {
-        document.write('<script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"><\/script>');
+      if (getURLParameterByName('toc')) {
+        document.write('<link rel="stylesheet" type="text/css" href="assets/css/toc.css" />');
+        document.write('<script src="https://unpkg.com/docsify-toc@1.0.2/dist/toc.js"><\/script>');
       }
     </script>
 
