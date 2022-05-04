@@ -123,7 +123,7 @@ https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resourc
 
 As Docsify Open Course Starter Kit does not require a web server, it can actually be hosted on many LMSs that support file libraries such as Canvas and Moodle.
 
-For example, here is a [Docsify Open Course Site hosted within a Canvas course](https://canvas.sfu.ca/courses/44038/files/15884796/download) and here is a [Docsify Open Course Site hosted within a Moodle course](https://paulhibbitts.net/moodle/mod/resource/view.php?id=25). Single Docsify Open Course site pages can also be embedded while hosted on the same system.
+For example, here is a [Docsify Open Course Site hosted within a Canvas course](https://canvas.sfu.ca/courses/44038/files/15884796/download). Single Docsify Open Course site pages can also be embedded while hosted on the same system.
 
 **Hosting a Docsify Open Course Site on your LMS**
 1. Tap **Download** on your repository page
