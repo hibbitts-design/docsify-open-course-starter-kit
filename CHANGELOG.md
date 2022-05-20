@@ -8,6 +8,7 @@
 * Added example link colours to be the same as Moodle LMS
 * Adjusted left Markdown section padding
 * Adjusted margins for site name in Sidebar
+* Added documentation in index.html to permanently alter the display of all pages (i.e. hidden Sidebar)
 
 **Bugfix:**   
 * Fixed 'hidegitlink' URL parameter detection
