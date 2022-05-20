@@ -131,6 +131,7 @@
             name              : 'Docsify Open Course Starter Kit',
             homepage          : 'home.md',
             loadSidebar       : true,
+            // Set loadNavbar to false to permanently hide the Navbar
             loadNavbar        : !(getURLParameterByName(['standalone','embedded'])),
             externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 
@@ -138,7 +139,9 @@
             // -----------------------------------------------------------------
             auto2top   : true,
             maxLevel   : 3,
+            // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
             subMaxLevel: 3,
+            // Set hideSidebar to true to permanently hide the Sidebar
             hideSidebar: getURLParameterByName(['standalone','embedded']),
 
             // PLUGIN SETTINGS
