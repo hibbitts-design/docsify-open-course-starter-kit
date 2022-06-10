@@ -47,7 +47,7 @@
 ### U
 [Usability](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 [Usability Goals](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
-[Usability Testing](module-05)   
+[Usability Testing](https://canvas.sfu.ca/courses/44038/modules/items/1096974)   
 [User-centered Design (UCD)](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 [User Experience Design](https://canvas.sfu.ca/courses/44038/modules/items/1096966)   
 [UX Goals](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  

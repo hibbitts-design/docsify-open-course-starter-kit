@@ -10,7 +10,7 @@
 [Design Thinking](module-01)  
 
 ### F
-[5-Second Test](module-04)   
+[5-Second Test](module-05)   
 [Five Whys](module-01)  
 
 ### H
