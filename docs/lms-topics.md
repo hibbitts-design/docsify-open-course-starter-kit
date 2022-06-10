@@ -10,7 +10,7 @@
 [Design Thinking](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 
 ### F
-[5-Second Test](https://canvas.sfu.ca/courses/44038/modules/items/1096967)   
+[5-Second Test](https://canvas.sfu.ca/courses/44038/modules/items/1096974)   
 [Five Whys](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 
 ### H
