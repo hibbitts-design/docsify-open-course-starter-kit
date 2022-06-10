@@ -7,6 +7,9 @@
 * Reduced page margins when displayed as embedded or standalone
 * Adjusted font size and line height for Topics index items
 
+**Bugfix:**   
+* Fixed incorrect links in example course content
+
 ## [v1.1.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.1.0)
 ### 05/30/2022
 
