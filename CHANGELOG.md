@@ -12,6 +12,7 @@
 **Bugfix:**   
 * Fixed incorrect links in example course content
 * Added missing Sidebar name and link colour settings
+* Support the removal of the '_sidebar.md' file with standalone setting
 
 ## [v1.1.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.1.0)
 ### 05/30/2022
