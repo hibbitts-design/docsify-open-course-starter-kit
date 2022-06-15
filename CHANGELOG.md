@@ -9,6 +9,7 @@
 * Added example CSS colours to be the same as Sakai LMS
 * Streamlined settings for custom CSS colours
 * Simplified 'ToC' setting in index.html
+* Reduced left margin of page Table of Contents on smaller screens
 
 **Bugfix:**   
 * Fixed incorrect links in example course content
