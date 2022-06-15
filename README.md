@@ -80,7 +80,7 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 
 You can also clone (i.e download) a copy of your repository to your computer and [run Docsify locally](https://docsify.js.org/#/quickstart) to preview your site. See the below video for details.
 
-🖼 Embedding your Docsify Page Content into Other Systems
+🧩 Embedding your Docsify Page Content into Other Systems
 ---  
 
 ![ Docsify Open Course Page Embedded into the Canvas LMS](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-oc-canvas.png)
@@ -117,6 +117,23 @@ https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resourc
 
 Example Docsify page displaying only page content with the 'Edit this Page' link hidden:  
 https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true&hidegitlink=true  
+
+🖼 Presenting your Docsify Page Content as Standalone Webpages
+---  
+
+In addition to using URL parameters when embedding Docsify page content into other systems, it is possible to permanently display all pages as standalone, and to also always display a page Table of Contents.
+
+**To Display all Pages as Standalone**
+1. Open the `index.html` file for editing.
+2. Locate the line `var standalone = false;` and change it to `var standalone = true;`.
+3. Save the `index.html` file and reload site.
+
+**To Display Page Table of Contents**
+1. Open the `index.html` file for editing.
+2. Locate the line `var ToC = false;` and change it to `var showToC = true;`.
+3. Save the `index.html` file and reload site.
+
+Please note a page must have a series of Headings (#, ##, ###) for the Table of Contents to be displayed correctly.
 
 🌐 Using an LMS to Host a Docsify Open Course Site
 ---
