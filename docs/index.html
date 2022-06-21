@@ -156,8 +156,8 @@
             // -----------------------------------------------------------------
             name              : 'Docsify Open Course Starter Kit',
             homepage          : 'home.md',
-            loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone),
-            loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone),
+            loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone || true),
+            loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone || true),
             externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 
             // SIDEBAR NAVIGATION
