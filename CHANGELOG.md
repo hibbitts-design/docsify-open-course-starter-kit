@@ -11,6 +11,7 @@
 * Simplified 'ToC' setting in index.html
 * Reduced left margin of page Table of Contents on smaller screens
 * Updated Table of Contents plugin items
+* Added Editor.css file for better Markdown previews
 
 **Bugfix:**   
 * Fixed incorrect links in example course content
