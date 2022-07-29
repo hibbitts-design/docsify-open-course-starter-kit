@@ -12,6 +12,7 @@
 * Reduced left margin of page Table of Contents on smaller screens
 * Updated Table of Contents plugin items
 * Added Editor.css file for better Markdown previews
+* Added new Themeable support for light/dark theme switching (OS-level)
 
 **Bugfix:**   
 * Removed unused JS and CSS resources
