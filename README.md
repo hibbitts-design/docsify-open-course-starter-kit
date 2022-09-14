@@ -95,7 +95,7 @@ To only display Docsify page content, add the following to a Docsify page URL:
 Example standard Docsify page:  
 https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources  
 
-Example Docsify page displaying only page content (i.e., no sidebar or navbar is shown):  
+Example Docsify page displaying only page content (i.e., no sidebar is shown):  
 https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true  
 
 To optionally show a page Table of Contents (based on included Headers), use the following:
@@ -118,13 +118,6 @@ https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resourc
 Example Docsify page displaying only page content with the 'Edit this Page' link hidden:  
 https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true&hidegitlink=true  
 
-To not hide the Navbar when displaying only page content, use the following:  
-
-`?embedded=true&navbar=true`  
-
-Example Docsify page displaying only page content (i.e., no sidebar is shown) but still showing the Navbar:  
-https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/resources?embedded=true&navbar=true  
-
 🖼 Presenting your Docsify Page Content as Standalone Webpages
 ---  
 
@@ -133,11 +126,6 @@ In addition to using URL parameters when embedding Docsify page content into oth
 **To Display all Pages as Standalone**
 1. Open the `index.html` file for editing.
 2. Locate the line `var standalone = false;` and change it to `var standalone = true;`.
-3. Save the `index.html` file and reload site.
-
-**To not Hide the Navbar When Displaying Pages as Standalone**
-1. Open the `index.html` file for editing.
-2. Locate the line `var navbar = false;` and change it to `var navbar = true;`.
 3. Save the `index.html` file and reload site.
 
 **To Display Page Table of Contents**
