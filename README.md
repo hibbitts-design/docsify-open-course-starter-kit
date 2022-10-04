@@ -137,7 +137,7 @@ In addition to using URL parameters when embedding Docsify page content into oth
 
 Please note a page must have a series of Headings (#, ##, ###) for the Table of Contents to be displayed correctly.
 
-🌐 Using an LMS to Host a Docsify Open Course Site
+🛠 Using an LMS to Host a Docsify Open Course Site
 ---
 
 As Docsify Open Course Starter Kit does not require a web server, it can actually be hosted on many LMSs that support file libraries such as Canvas and Moodle.
@@ -219,6 +219,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ```html
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 ```
+
+🌐 Using MAMP to View Docsify Sites Locally
+---
+
+An alternative to installing Docsify locally (as described following this section) is to install MAMP to view your Docsify sites locally on your own computer.
+
+1. Download [MAMP](https://www.mamp.info/)
+2. Move your local Docsify site to the **htdocs** folder of MAMP
+3. Turn MAMP on, tap **WebStart** and then tap **My Website**
+4. Tap on the folder containing your local Docsify site and then tap on the **docs** folder
 
 📼 Video Walkthrough of Local Docsify Install/Config
 ---
