@@ -32,9 +32,7 @@
 
   <style>
     :root {
-
       --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-
       --base-line-height: 1.4;
       --base-font-size: 1.125rem;
 
@@ -130,7 +128,7 @@
     var ToC = false;
 
     // Get value from GET-parameter in URL
-    // @param {string} name Parameter-name
+    // @param {array} name Parameter-name
     // @param {*} isTrue Return if found
     // @param {*} isFalse Return if not found
     // @returns {string|null} Parameter-value
@@ -191,7 +189,7 @@
         previousText: 'PREV',
         nextText: 'NEXT',
         crossChapter: false,
-        crossChapterText: true,
+        crossChapterText: false,
       },
 
       toc: {
