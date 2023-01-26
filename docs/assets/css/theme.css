@@ -257,6 +257,21 @@
   width: 100vw;
 }
 
+.markdown-section .image-75 {
+  width: 75%;
+  height: auto;
+}
+
+.markdown-section .image-50 {
+  width: 75%;
+  height: auto;
+}
+
+.markdown-section .image-25 {
+  width: 75%;
+  height: auto;
+}
+
 .markdown-section .column {
   float: left;
   padding-right: 1rem;
@@ -273,6 +288,22 @@
   .markdown-section .column {
     width: 100%;
   }
+
+  .markdown-section .image-75 {
+    width: 100%;
+    height: auto;
+  }
+  
+  .markdown-section .image-50 {
+    width: 100%;
+    height: auto;
+  }
+  
+  .markdown-section .image-25 {
+    width: 100%;
+    height: auto;
+  }
+
 }
 
 .markdown-section figure, .markdown-section p, .markdown-section ol, .markdown-section ul {
