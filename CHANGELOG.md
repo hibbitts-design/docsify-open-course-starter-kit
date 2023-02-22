@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.2.2](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.2)
+### XX/XX/2023
+
+**Improved:**   
+* Restore initial header spacing except for blockquotes and alerts
+* Update example course home page to use alert class div
+
 ## [v1.2.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.1)
 ### 02/13/2023
 
