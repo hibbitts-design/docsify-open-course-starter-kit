@@ -4,8 +4,7 @@
 ### XX/XX/2023
 
 **Improved:**   
-* Restore initial header spacing except for alerts
-* Update example course home page to use alert class div
+* Restore initial header spacing except for alerts and blockquotes
 
 ## [v1.2.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.1)
 ### 02/13/2023
