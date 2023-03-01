@@ -5,6 +5,7 @@
 
 **Improved:**   
 * Restore initial header spacing except for alerts and blockquotes
+* Remove extra space between Sidebar icons and labels
 
 ## [v1.2.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.1)
 ### 02/13/2023
