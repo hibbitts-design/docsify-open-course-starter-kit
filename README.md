@@ -155,6 +155,14 @@ In addition to using URL parameters when embedding Docsify page content into oth
 
 Please note a page must have a series of Headings (#, ##, ###) for the Table of Contents to be displayed correctly.
 
+❛❜ Setting the Name of your Docsify Site 
+---  
+
+1. Open the `index.html` file for editing.
+2. Locate the line `<title>Docsify Open Course Starter Kit</title>` and change the text between the title tags to be displayed as the site name on the Browser tab
+3. Locate the line `name: 'Docsify Open Course Starter Kit',` and change the text between the quotes to be displayed as the site name at the top of the Docsify Sidebar
+4. Save the `index.html` file and reload site.
+
 🛠 Using an LMS to Host a Docsify Open Course Site
 ---
 
