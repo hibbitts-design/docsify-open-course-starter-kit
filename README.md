@@ -245,16 +245,16 @@ For example, here is a [Docsify Open Course Site hosted within a Canvas course](
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 ```
 
-`button-secondary`  
-
-```markdown
-[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button-secondary')
-```
-
 `button-rounded`  
 
 ```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button-rounded')
+```
+
+`button-secondary`  
+
+```markdown
+[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button-secondary')
 ```
 
 `button-rounded-secondary`  
