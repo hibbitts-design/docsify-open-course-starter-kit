@@ -275,6 +275,12 @@ For example, here is a [Docsify Open Course Site hosted within a Canvas course](
 ![Photo of Mountain](images/mountain.jpg ':class=header-image-fade')
 ```
 
+`header-image-fade-full-width` (suggested size of 1200px to 2000px, and display of Table of Contents is not available)  
+
+```markdown
+![Photo of Mountain](images/mountain.jpg ':class=header-image-fade-full-width')
+```
+
 `header-image-full-width` (suggested size of 1200px to 2000px width and 400px to 600px height, and display of Table of Contents is not available)  
 
 ```markdown
