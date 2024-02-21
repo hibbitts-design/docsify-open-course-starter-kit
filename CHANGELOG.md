@@ -11,6 +11,7 @@
 * Updated ReadMe
 * Updated Editor.css file for improved Markdown previews
 * Use docsify-loading plugin rather than added Javascript
+* Reorganize custom assets (as used in Docsify-This)
 
 **Bugfix:**   
 * Include missing docsify-footnotes plugin
