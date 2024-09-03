@@ -67,6 +67,8 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 4. Find the line `var gitLinkRepoURL = '';` and enter the URL of your own GitHub Repository between the two quotes (replace `github.com` with `github.dev` to use the GitHub.dev web-based editor currently in Beta) and then scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
 ![ Docsify Open Course Starter Kit - “Edit this Page” Link 5](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-oc-gitlink-5.png)
 
+To remove the “Edit this Page” link on your Docsify site, restore the value of `gitLinkRepoURL` to `''`.
+
 💻 Locally Editing Your Docsify Site Pages
 ---  
 
@@ -162,6 +164,11 @@ Please note a page must have a series of Headings (#, ##, ###) for the Table of 
 2. Locate the line `<title>Docsify Open Course Starter Kit</title>` and change the text between the title tags to be displayed as the site name on the Browser tab
 3. Locate the line `name: 'Docsify Open Course Starter Kit',` and change the text between the quotes to be displayed as the site name at the top of the Docsify Sidebar
 4. Save the `index.html` file and reload site.
+
+⚠️ Troubleshooting
+---
+_Site not displaying on GitHub Pages_  
+The most likely cause of not seeing your Docsify site on GitHub Pages is that the 'docs' folder is not selected as the source folder. Go to **Settings** of your repository, tap the **Pages** tab (on the left-hand side), choose **main branch**, then **docs folder** and finally tap the **Save** button.  
 
 🛠 Using an LMS to Host a Docsify Open Course Site
 ---
