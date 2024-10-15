@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.2.20](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.20)
+### 10/15/2024
+
+**Bugfix:**
+* Scroll offset fix (with thanks and appreciation to @rizdaprasetya for the initial code)
+* Added missing Prism language files
+
 ## [v1.2.19](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.19)
 ### 10/09/2024
 
