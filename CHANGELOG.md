@@ -9,6 +9,7 @@
 **Improved:**
 * Use of window.matchMedia.addListener replaced with window.matchMedia.addEventListener
 * Cleanup HTML
+* Update uses of Font Awesome
 
 ## [v1.2.20](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.20)
 ### 10/17/2024
