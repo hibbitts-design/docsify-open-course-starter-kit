@@ -8,6 +8,7 @@
 * Updated example custom CSS for Moodle LMS
 * Support horizontal scrolling in code blocks
 * Adjusted bottom margin for summary elements
+* Match Docsify-This CSS with Docsify Starter Kits CSS
 
 ## [v1.2.20](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.20)
 ### 12/03/2024
