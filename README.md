@@ -205,6 +205,7 @@ For example, here is a [Docsify Open Course Site hosted within a Canvas course](
 ---
 **Including Code Blocks**  
 Using [Prismjs](https://prismjs.com/) code blocks with syntax highlighting is supported for the languages [included with Docsify](https://docsify.js.org/#/language-highlight?id=language-highlighting) and as well Bash, Go, Java, Kotlin, PHP, Python and Swift. To embed a code block use the Markdown standard of triple backticks and start the block with the name of the language, for example to embed a block of Javascript code with syntax highlight the following would be used:
+
 <pre>
 ```javascript
 function test() {
@@ -218,6 +219,7 @@ function test() {
   console.log("Hello world!");
 }
 ```
+
 **Displaying Images in a Grid**  
 3 or more images can be transformed into a responsive grid gallery by including them in lists. For example:
 ```markdown
