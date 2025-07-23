@@ -1,39 +1,39 @@
 # Topics
 
-### [A](#a)|B|C|[D](#d)|E|[F](#f)|G|[H](#h)|I|[J](#j)|[K](#k)|[L](#l)|[M](#m)|N|O|[P](#p)|Q|R|[S](#s)|[T](#t)|[U](#u)|[V](#v)|W|X|Y|Z  
+[A](#a)| B | C |[D](#d)| E |[F](#f)| G |[H](#h)| I |[J](#j)|[K](#k)|[L](#l)|[M](#m)| N | O |[P](#p)| Q | R |[S](#s)|[T](#t)|[U](#u)|[V](#v)| W | X | Y | Z
 
-### A
+## A
 [Agile UX](https://canvas.sfu.ca/courses/44038/modules/items/1096966)
 
-### D
+## D
 [Design Ethics](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 [Design Thinking](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 
-### F
+## F
 [5-Second Test](https://canvas.sfu.ca/courses/44038/modules/items/1096974)   
 [Five Whys](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 
-### H
+## H
 [Hypothesis](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 
-### J
+## J
 [Journey Maps](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
 
-### K
+## K
 [Kano Model](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
 
-### L
+## L
 [Lean UX](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 
-### M
+## M
 [Microsoft Product Reaction Cards](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 
-### P
+## P
 [Problem Statement](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
 [Product Design Principles](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
 [Prototyping](https://canvas.sfu.ca/courses/44038/modules/items/1096967)   
 
-### S
+## S
 [Scenario-based Design (and Task-Centered Design)](https://canvas.sfu.ca/courses/44038/modules/items/1096967)  
 [Scenarios (and Design Scenarios)](https://canvas.sfu.ca/courses/44038/modules/items/1096967)  
 [Sketching](https://canvas.sfu.ca/courses/44038/modules/items/1096967)
@@ -41,10 +41,10 @@
 [Software Design Processes](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 [Storyboards](https://canvas.sfu.ca/courses/44038/modules/items/1096967)  
 
-### T
+## T
 [Task Analysis](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 
-### U
+## U
 [Usability](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
 [Usability Goals](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 [Usability Testing](https://canvas.sfu.ca/courses/44038/modules/items/1096974)   
@@ -53,5 +53,5 @@
 [UX Goals](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
 [UX Strategy](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
 
-### V
+## V
 [Value Proposition](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
