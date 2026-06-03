@@ -1,7 +1,7 @@
 # Changelog
 
 ## [v1.3.7](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.3.7)
-### XX/XX/2026
+### 06/03/2026
 
 **Improved:**
 * Enhanced search results display with page grouping, section titles, smart deduplication, and keyboard navigation
