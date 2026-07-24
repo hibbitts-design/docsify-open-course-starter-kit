@@ -12,4 +12,4 @@
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/QckIzHC99Xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing</a>
+<a class="embedly-card" data-card-theme="light" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing</a>

@@ -15,4 +15,4 @@
 [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
 
 ## Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
+<a class="embedly-card" data-card-theme="light" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
