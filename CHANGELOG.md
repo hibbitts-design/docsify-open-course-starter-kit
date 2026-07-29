@@ -1,5 +1,11 @@
 # Changelog
 
+## [v2.0.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.0.1)
+### XX/XX/2026
+
+**Improved:**
+* Load Embedly platform.js unconditionally instead of only when a card is detected in the DOM
+
 ## [v2.0.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.0.0)
 ### 07/27/2026
 
