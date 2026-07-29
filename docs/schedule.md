@@ -27,5 +27,5 @@
 ## :fas fa-calendar fa-pull-left: [Week 5 (Jun 6 - 12)](module-05)
 **How to plan, conduct, and summarize usability tests?**  
 :fas fa-desktop fa-fw: [Usability Testing](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
+:fas fa-book fa-fw: [7 Tips for Effective Guerilla-Usability Testing](https://uxdesign.cc/7-tips-for-effective-guerilla-usability-testing-d2b03fffdc8e)  
 :fas fa-users fa-fw: In-class office hours (tentative)
