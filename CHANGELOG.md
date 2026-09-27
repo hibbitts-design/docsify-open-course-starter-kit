@@ -10,6 +10,7 @@
 * Unify docsify-v5-core.css and responsive tables plugin across docsify-this and starter kits
 * Sync print.css image grid print rules from Docsify-This
 * Add optional Mermaid and LaTeX support, commented out by default
+* Add Edit this Page position and text settings and fix link vertical alignment
 
 **Bugfix:**
 * Replaced icongr.am icons with Iconify API (Font Awesome 6)
