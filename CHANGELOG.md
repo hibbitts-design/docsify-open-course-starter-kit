@@ -11,6 +11,7 @@
 * Sync print.css image grid print rules from Docsify-This
 * Add optional Mermaid and LaTeX support, commented out by default
 * Add Edit this Page position and text settings and fix link vertical alignment
+* Enable crossChapter and use a patched pagination plugin that skips external links
 
 **Bugfix:**
 * Replaced icongr.am icons with Iconify API (Font Awesome 6)
