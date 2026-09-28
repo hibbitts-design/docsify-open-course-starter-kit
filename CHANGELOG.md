@@ -13,6 +13,7 @@
 * Add Edit this Page position and text settings and fix link vertical alignment
 * Enable crossChapter and use a patched pagination plugin that skips external links
 * Show pagination page names when the sidebar is hidden, with smaller titles on phones
+* Give long navbars (6 or more links) room for their extra rows on phones
 
 **Bugfix:**
 * Replaced icongr.am icons with Iconify API (Font Awesome 6)
