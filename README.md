@@ -170,6 +170,13 @@ Please note a page must have a series of Headings (#, ##, ###) for the Table of 
 3. Locate the line `name: 'Docsify Open Course Starter Kit',` and change the text between the quotes to be displayed as the site name at the top of the Docsify Sidebar
 4. Save the `index.html` file and reload site.
 
+🎨 Sidebar Icons
+---
+
+Sidebar icons are loaded from [Iconify](https://iconify.design/), so their color can be changed by editing the `color` value in each icon URL within `_sidebar.md` (e.g. `color=%23808080`, where `%23` is the `#` character).
+
+Local copies of the default icons are also included in the `docs/assets/icons` folder as a backup, such as when Iconify is unavailable or the site needs to work offline. To use them, replace an icon URL with its local path, e.g. `assets/icons/calendar.svg`.
+
 ⚠️ Troubleshooting
 ---
 _Site not displaying on GitHub Pages_  
