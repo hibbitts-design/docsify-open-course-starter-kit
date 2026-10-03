@@ -15,6 +15,7 @@
 * Show pagination page names when the sidebar is hidden, with smaller titles on phones
 * Give long navbars (6 or more links) room for their extra rows on phones
 * Support a top Edit this Page link below full-width header images
+* Add local backup copies of default sidebar icons and README note
 
 **Bugfix:**
 * Replaced icongr.am icons with Iconify API (Font Awesome 6)
