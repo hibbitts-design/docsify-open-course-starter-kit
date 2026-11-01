@@ -25,6 +25,7 @@
 * A card's link button in its own paragraph now sits at the bottom of the card, lined up across the row
 * Cards in a list line up across each row (image, title, text), however long their titles are
 * An empty navbar no longer leaves space above the page
+* The sidebar no longer shows briefly while a page that hides it is loading
 * A bold first line in a sidebar (such as a guide or course name) shows slightly larger, as a label for the list
 * Updated ReadMe
 
