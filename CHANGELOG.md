@@ -12,6 +12,9 @@
 * Letters in a Topics letter bar are at least 18px wide, easier to tap or click
 * Topics pages use `##` letter headings, so headings no longer skip a level
 
+**Bugfix:**
+* Module 3 and Module 5 videos, which are no longer on YouTube, are now Nielsen Norman Group's Customer Journey Mapping 101 and AmberlightUX's Usability Testing
+
 ## [v2.1.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.0)
 ### 11/02/2026
 

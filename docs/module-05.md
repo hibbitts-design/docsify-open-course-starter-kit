@@ -9,7 +9,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Supplemental Materials  
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/QckIzHC99Xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/BrVnBdW6_rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Required Reading  
 <a class="embedly-card" data-card-theme="light" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/7-tips-for-effective-guerilla-usability-testing-d2b03fffdc8e">7 Tips for Effective Guerilla-Usability Testing</a>
