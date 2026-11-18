@@ -5,6 +5,7 @@
 
 **Improved:**
 * Search stays within the current course or guide on sites with a folder per course or guide
+* Week 5 reading: an article whose preview card shows, replacing one that now blocks previews
 
 ## [v2.1.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.1)
 ### 11/17/2026
