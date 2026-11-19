@@ -8,6 +8,7 @@
 * Portrait guide cover: `guide-cover-portrait`, added to `guide-cover`, shows a book cover whole at its own shape
 
 **Improved:**
+* A long site title wraps onto a second line on phones instead of running off the page
 * Search stays within the current course or guide on sites with a folder per course or guide
 * Week 5 reading: an article whose preview card shows, replacing one that now blocks previews
 * A guide cover has a faint edge and soft shadow, as in Open Publishing Space, so a light cover stands out from the page
