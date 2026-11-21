@@ -9,7 +9,7 @@
 
 > This is a starter kit to quickly create a Markdown-based open course site with the site generator [Docsify](https://docsify.js.org) (v5 Preview). Global navigation elements can be hidden for seamlessly embedding pages (i.e., into an LMS). Includes an optional "Edit this Page" link.
 
-Docsify sites use client-side rendering, which means your content will not be indexed by search engines like Google, Bing, or DuckDuckGo.
+Docsify sites draw their pages in the browser, with page addresses after a `#`, so search engines like Google, Bing, or DuckDuckGo index little more than the home page.
 
 📸 Docsify Open Course Screenshots
 ---
