@@ -234,6 +234,9 @@ function test() {
 - ![image3](path/to/image3.jpg)
 ```
 
+**Continue Reading Link**  
+Returning students see a **Continue reading** link on a course's home page, to the last Sidebar page they read (kept only in their own browser). It goes right above the This Week box (`announcement`) – without one, below the page's heading. To turn it off, remove the Keep My Place line in `docs/index.html`.
+
 🧰 Useful Markdown CSS Classes
 ---
 
