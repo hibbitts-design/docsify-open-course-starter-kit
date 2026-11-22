@@ -237,6 +237,9 @@ function test() {
 **Continue Where You Left Off Link**  
 Returning students see a **Continue where you left off** link on a course's home page, to the last Sidebar page they read (kept only in their own browser). It goes right above the This Week box (`announcement`) – without one, below the page's heading. To turn it off, remove the Keep My Place line in `docs/index.html`.
 
+**Previous/Next Bar on Phones**  
+To keep Previous/Next in a bar at the bottom of the screen on phones, as in a guide, add `class="sticky-pagination"` to the `<html>` tag in `docs/index.html`.
+
 🧰 Useful Markdown CSS Classes
 ---
 
