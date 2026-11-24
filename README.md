@@ -18,7 +18,7 @@ Docsify sites draw their pages in the browser, with page addresses after a `#`, 
 ![ Docsify Open Course Starter Kit](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/smartmockups_lzlzwwuj.png)
 _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/demo-docsify-open-course-starter-kit/](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/)_
 
-🧩 Variations
+🗂 Variations
 ---
 Each variation is built on this kit and is a template of its own – open its demo to see it, or start your own site from its template, as in the Quickstart below:
 
