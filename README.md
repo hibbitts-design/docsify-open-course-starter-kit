@@ -18,6 +18,15 @@ Docsify sites draw their pages in the browser, with page addresses after a `#`, 
 ![ Docsify Open Course Starter Kit](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/smartmockups_lzlzwwuj.png)
 _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.github.io/demo-docsify-open-course-starter-kit/](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit/#/)_
 
+🧩 Variations
+---
+Each variation is built on this kit and is a template of its own – open its demo to see it, or start your own site from its template, as in the Quickstart below:
+
+- **Dark** – a dark theme · [Demo](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit-dark/) · [Template](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
+- **Dark Mode Auto** – light or dark, following the reader's system setting · [Demo](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit-dark-mode-auto/) · [Template](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
+- **SFU styling** – an institution's look, with its font and colours, to match its LMS · [Demo](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit-sfu/) · [Template](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
+- **SFU styling, dark** – the same look in a dark theme · [Demo](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit-sfu-styling-dark/) · [Template](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark)
+
 🚀 GitHub Pages Quickstart
 ---
 **Pre-flight Checklist**  
