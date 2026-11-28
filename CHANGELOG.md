@@ -20,6 +20,9 @@
 * Badges have WCAG AA contrast: the default background is a little darker
 * Previous/Next no longer briefly shows the new page partway down before it scrolls to the top
 
+**Bugfix:**
+* Cards in a list are the same height in each row, even when one has fewer parts (such as no subtitle)
+
 ## [v2.1.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.1)
 ### 11/17/2026
 
